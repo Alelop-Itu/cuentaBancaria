@@ -2,7 +2,7 @@ package com.alelop.cuentaBancaria;
 
 /*
  * Author: Alejandra López
- * Fecha: 22/10/2025
+ * Fecha: 24/10/2025
  * Descripción: Esta clase llamada "CuentaAhorros" hereda de la clase "Cuenta"
  * y representa una cuenta de ahorros.
  * Aquí se maneja si la cuenta está activa o no dependiendo del saldo,

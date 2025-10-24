@@ -3,7 +3,7 @@ package com.alelop.cuentaBancaria;
 /*
  * author: alejandra lópez
  * fecha: 24/10/2025
- * descripción: ¡esta es la cuenta corriente! 🏦
+ * descripción: ¡esta es la cuenta corriente!
  * la hemos simplificado para que funcione como una cuenta normal, sin superpoderes.
  * ahora ya no permite sobregiros ni deudas, ¡solo usa el dinero que hay!
  */

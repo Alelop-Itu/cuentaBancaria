@@ -2,7 +2,7 @@ package com.alelop.cuentaBancaria;
 
 /*
  * Author: Alejandra López
- * Fecha: 22/10/2025
+ * Fecha: 24/10/2025
  * Descripción: Esta clase llamada "Cuenta" representa una cuenta bancaria.
  * Guarda información como el saldo, la cantidad de depósitos (consignaciones),
  * el número de retiros, la tasa de interés anual y la comisión mensual.
